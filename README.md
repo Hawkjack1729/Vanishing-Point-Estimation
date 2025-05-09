@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Vanishing-Point-Estimation
-=======
+
 # Vanishing Point Detection
 
 This project detects and visualizes vanishing points in images using computer vision techniques with OpenCV.
@@ -58,4 +57,3 @@ g++ -std=c++17 vanishing_point_detector.cpp -o vanishing_point_detector `pkg-con
 - Architectural photography analysis
 - Autonomous navigation and driving systems
 - Augmented reality
->>>>>>> c909536 (Added readme file)
